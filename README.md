@@ -32,6 +32,8 @@ pip install psutil matplotlib
 
 ```bash
 python system_monitor.py
+#ot
+python3 system_monitor.py
 ```
 
 4. The tool will display information about CPU usage, memory usage, and disk usage on your Linux system.
