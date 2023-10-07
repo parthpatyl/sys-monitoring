@@ -32,7 +32,7 @@ pip install psutil matplotlib
 
 ```bash
 python system_monitor.py
-#ot
+#or
 python3 system_monitor.py
 ```
 
