@@ -18,6 +18,7 @@ Before running the tool, ensure you have the following prerequisites:
 
 You can install the necessary libraries using pip:
 
+```bash
 pip install psutil matplotlib
 
 ## Usage
