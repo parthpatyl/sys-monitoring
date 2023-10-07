@@ -1,7 +1,6 @@
 # sys-monitoring
 Linux system monitoring tool in Python:
 
-```
 ## Overview
 
 This is a basic system monitoring tool written in Python for monitoring CPU, memory, and disk usage on a Linux system. It uses the `psutil` library to collect system information and can optionally visualize the data using `matplotlib`.
@@ -19,9 +18,7 @@ Before running the tool, ensure you have the following prerequisites:
 
 You can install the necessary libraries using pip:
 
-```bash
 pip install psutil matplotlib
-```
 
 ## Usage
 
